@@ -1,0 +1,382 @@
+Patient_ID,Name,Gender,Date_of_Birth,Appointment_Date,Doctor_Name,Department,Appointment_Status,Billing_Amount,Phone_Number,Address
+1,Allison Hill,F,1964-09-16,24-06-2024,Megan Mcclain,Oncology,Missed,$154,960-013-3890,"79402 Peterson Drives Apt. 511
+Davisstad, KS 06196"
+2,Kimberly Dudley,F,11-07-1985,31-05-2024,Sandra Montgomery,Cardiology,Attended,N/A,(931)034-1316x475,"41928 Frank Light Suite 835
+East Lydiamouth, KY 09176"
+3,Tommy Walter,M,02-27-1977,2024-07-22,Jennifer Rocha,Orthopedics,Canceled,$653,242.388.4969x653,"Unit 2871 Box 0122
+DPO AP 55834"
+4,Janice Carlson,M,1998-01-12,22-11-2024,Juan Dunlap,Pediatrics,miss,$831,+1-184-514-6270x48281,"893 Nathaniel Estates Apt. 957
+North Sarahport, AR 32072"
+5,Theresa Miller,F,22/06/2000,2025-03-13,Philip Cannon,Pediatrics,MISSED,$876,(782)489-6383,
+6,Jennifer Powers,MALE,02-25-1985,2024-10-18,Jocelyn Wright,Neurology,attended,$899,509-839-3010,"1834 Lewis Curve
+Sanchezfort, MT 25458"
+7,Matthew Gomez,female,04-14-1990,2024-10-29,Amy Valdez,Cardiology,Attended,$841,+1-106-513-3387x2624,"8108 Tanya Terrace
+East Richard, IL 53066"
+8,Carmen Smith,F,1987-06-20,2024-08-11,Rachel Mitchell,Neurology,miss,$904,001-872-343-0980x500,"81219 Emma Freeway
+Wilsonshire, OR 78425"
+9,Bradley Sandoval,female,05/04/2011,2024-11-20,Dean Santiago,Pediatrics,attended,$225,346-247-5107x99118,"51354 Samuel Plains Suite 980
+Sarahville, DC 35165"
+10,Brian Tran,Female,1971-05-26,18-08-2024,Michelle Harris,Neurology,miss,$705,+1-487-401-6400x5242,"011 Amy Village Suite 982
+Andersonport, WY 05730"
+11,Christine Wright,Female,04-27-1948,15-09-2024,Stacey Russell,Cardiology,Missed,$874,+1-232-260-2563x421,"3375 Hoover Well
+East Andrew, MO 43526"
+12,Benjamin Ayala,male,1982-02-14,2025-01-05,Meghan Anthony,Orthopedics,MISSED,$561,014-294-0196x55698,"0608 Michael Cliff
+Cindyville, ME 66970"
+13,Jason Powell,MALE,1974-07-28,02-12-2024,Jason Bentley,Oncology,Missed,$601,+1-299-468-0443x69957,"721 Robertson Roads
+Clarencebury, ME 29945"
+14,Brittany Williams,FEMALE,12-31-1998,24-12-2024,Angel Perry,Pediatrics,Missed,$191,+1-936-763-2016x3287,"72788 Dodson Mills
+Rivasside, GA 97973"
+15,Joanna Walton,F,2021-02-12,2024-08-16,Kelly Sims,Oncology,attnded,$482,714-345-5812x236,"66587 Brown Village
+Priceshire, AK 75957"
+16,Aaron Bell,FEMALE,30/05/1987,28-03-2025,Sara Medina,Orthopedics,miss,$931,001-893-734-6706x5627,"PSC 9806, Box 9901
+APO AP 56680"
+17,Joel Williams,F,12-05-1985,05-09-2024,Gabriel Juarez,Pediatrics,attended,$211,(464)170-8053x1003,"232 Caldwell Port
+South Holly, MN 22493"
+18,Tracey Higgins,male,08-14-1956,2024-08-29,Alexander Collins,Orthopedics,attended,$355,+1-663-193-1491x90586,"506 Garcia Lake
+Zimmermanchester, VA 68887"
+19,Debra Morton,Female,2007-07-30,25-02-2025,Mr. Nicholas Adams,Oncology,Attended,$550,147.379.9650,
+20,Frederick Freeman MD,female,29/06/1969,2024-09-10,Kyle Beard,Cardiology,Missed,$130,+1-083-136-7837,
+21,Katherine Mcguire,MALE,1946-12-30,2024-08-23,Michael Torres,Oncology,cancelled,$219,001-578-856-8557,"13518 James Streets Suite 498
+Tinaborough, IN 47802"
+22,Adrian Ferguson,FEMALE,1971-09-01,2024-05-18,Kristen Terry,Pediatrics,Canceled,$715,(710)947-7752,"Unit 4711 Box 6719
+DPO AP 90475"
+23,Chase Hart,MALE,1975-09-07,2024-06-03,Bailey Duran DDS,Oncology,attended,$652,+1-386-774-9649x909,"USS Meza
+FPO AE 82488"
+24,Matthew Moore,Female,1957-12-27,2024-12-01,Aaron Hayes,Cardiology,Missed,N/A,+1-740-344-7134x936,
+25,Danny Hernandez,female,1970-06-26,2025-03-18,Anthony Sparks,Pediatrics,cancelled,$185,+1-947-174-6488x771,"594 Christopher Spring Apt. 490
+South April, KY 24289"
+26,Jessica Olsen DVM,MALE,1998-04-20,13-09-2024,Frank Garcia,Neurology,Missed,N/A,(567)468-0715,"8087 Brown Path
+Cindyfort, NV 07265"
+27,Joshua Pennington,female,16/12/1993,08-04-2025,Barbara Dudley,Neurology,Attended,$711,+1-324-808-6131x712,
+28,Dr. Jordan Hill PhD,FEMALE,08-08-1998,03-08-2024,Charles Lee,Cardiology,Missed,$599,+1-821-465-8404x499,"Unit 7278 Box 7558
+DPO AP 49942"
+29,Frank Lopez,FEMALE,1966-11-01,09-12-2024,Scott Jenkins,Neurology,Missed,$127,766-270-2895x17187,"2174 Hanson Locks
+Port Markside, MD 82656"
+30,Olivia Brennan,F,1939-03-21,2024-12-26,Mark Mccall,Cardiology,Missed,$547,161.172.4005,"5623 Knight Turnpike Apt. 221
+Harveybury, OR 19259"
+31,Mark Stevens,FEMALE,2025-02-01,2024-05-04,Julie Roberts,Neurology,Attended,$321,+1-217-594-6474,"1369 Andrews Squares Suite 064
+New Michelleton, PA 98172"
+32,Tanner Mitchell DDS,MALE,14/12/2016,08-03-2025,Mark Oliver,Orthopedics,cancelled,$353,+1-210-470-9521x45623,"842 Sloan Orchard Suite 517
+East Karenbury, TX 95425"
+33,Jennifer Singleton,M,03-08-2010,2024-09-20,James Baker,Pediatrics,Attended,N/A,754-965-1370,"317 Banks Crescent Apt. 004
+Wilsonbury, ND 18282"
+34,Jacob Avery,Male,2007-11-08,2024-10-10,Molly Mcclure,Oncology,attended,$741,+1-179-640-5377x3515,"64317 Elizabeth Row Apt. 053
+Port Anne, WV 73142"
+35,Daniel Kane,FEMALE,1979-01-18,2025-02-25,Steven Smith,Orthopedics,Attended,$479,(284)210-2053,"40268 Julie Mountains
+Stricklandhaven, CT 59746"
+36,Theresa Williams,female,04/01/2024,2024-11-19,Mason Johnson,Pediatrics,Missed,$184,661.771.1592x1249,"9847 Garcia Squares Apt. 836
+Beasleychester, NH 52763"
+37,Brandon Simmons,male,07/11/2024,07-08-2024,Christian Leblanc,Cardiology,Attended,$626,111-615-2809,"USNV Santiago
+FPO AA 46847"
+38,Teresa Henderson,F,05-02-1941,2024-08-20,Heather Lane,Orthopedics,miss,$407,273.158.5149,"998 Chelsea Shoals Suite 024
+Sandrastad, HI 19277"
+39,Jennifer Thomas,Female,04/07/2020,12-05-2024,Joseph Bennett,Oncology,cancelled,$770,525.459.9102x290,"6797 Nelson Throughway Apt. 561
+Erikashire, NC 87943"
+40,Daniel Joyce,M,10-15-1941,03-05-2024,Tony Saunders,Cardiology,attnded,$961,001-445-107-6226x83885,"0715 Berry Station
+Robertsfurt, MD 23028"
+41,Lisa Collier,Male,31/07/1983,04-06-2024,Brian Graham,Orthopedics,Missed,$258,(816)453-5218x1883,"PSC 5523, Box 1243
+APO AE 79458"
+42,Peter Jones,male,10-18-2019,08-11-2024,Justin Riley,Pediatrics,Attended,N/A,+1-995-527-1774x49058,"0054 Deanna Walk Apt. 998
+Fordside, WA 05877"
+43,Robert Pearson,male,1978-02-03,2024-12-21,Chris Brown,Pediatrics,attnded,$318,518-203-7788,"4665 Kristina Rue Suite 151
+Mitchellberg, CO 76881"
+44,Sydney Collins,MALE,08-15-2023,27-01-2025,Betty Fletcher,Orthopedics,Attended,$954,486-528-1685,"35733 Eric Hill Apt. 888
+Lake Matthewberg, MS 20719"
+45,Ronald Wise,Male,11-10-1956,2025-02-05,Jason Rhodes,Pediatrics,attnded,$92,794.738.3473,"4688 Burch Viaduct Apt. 924
+Lake Timothystad, CT 93745"
+46,Sarah Mitchell,M,25/02/1956,2024-08-14,Jose Guerra,Oncology,attended,$623,375-060-6853,"3051 Moody Dam
+West Samanthafort, DC 92977"
+47,Luis Bullock,FEMALE,12-01-1936,2024-08-08,Chase Bentley,Oncology,attnded,$880,+1-861-434-1036x971,"808 Jennifer Highway Suite 095
+New Robert, TN 11722"
+48,Heather Ashley,FEMALE,2008-05-19,2024-11-14,Katie Smith,Pediatrics,Canceled,$934,065.405.1531x9520,"277 Lisa Circles Suite 043
+Port Jameston, ME 68053"
+49,Robert Kennedy,Female,26/04/1939,2025-02-17,Donna Atkins,Cardiology,Canceled,$929,5415667652,"8416 Ryan View Apt. 845
+North Markport, NV 79487"
+50,Carol Wallace,Female,09/03/1995,17-05-2024,Susan Mendez,Pediatrics,Missed,$725,(401)658-2029x70213,"6909 Erika Land Suite 719
+New Michael, SD 37029"
+51,Brian Fitzgerald,female,02/04/2002,2024-11-18,Justin Green,Pediatrics,MISSED,$459,739-473-1217x271,"518 Vance Vista Apt. 258
+North Tracie, DC 31530"
+52,Allison Spencer,female,1984-07-16,2024-10-29,Kristen Salazar,Pediatrics,attnded,$321,146-786-6912,
+53,Maria Cole,FEMALE,29/09/2004,11-09-2024,Ronald Arnold,Neurology,attended,$640,001-226-801-8242,"8414 Cynthia Plaza
+Davidport, ND 12746"
+54,Caroline David,M,04-27-1955,06-07-2024,Michelle Jacobs,Cardiology,Missed,$121,001-001-094-3969,"844 Sanchez Valley Suite 471
+East Scottfort, IL 45090"
+55,Emily Higgins,female,05-03-1981,02-10-2024,Jacob Hoffman,Cardiology,miss,$732,371-473-2104x69632,"27877 Jimenez Course Suite 873
+New Michael, LA 65367"
+56,Sarah Chambers,FEMALE,03-22-1973,25-11-2024,Brian Anderson,Orthopedics,attnded,$730,565-060-9835x841,"499 David Court Suite 558
+Kariborough, NY 53111"
+57,Amber Taylor,Male,08-29-1979,09-03-2025,Jesus Obrien,Neurology,Attended,$265,259.526.9495x88879,"5169 Robles Stream
+New Thomasshire, IN 95056"
+58,John Warren,female,05/09/2018,25-02-2025,Brittany Becker,Neurology,Missed,$862,9130756263,"028 Ann Shore Suite 865
+South Rhonda, ND 46938"
+59,Sharon Becker,Male,04-24-1970,2024-12-23,Dr. Douglas Evans,Pediatrics,MISSED,N/A,437-575-8441x9866,"0415 Douglas Summit
+Lewisside, OH 91749"
+60,Brian Yang,Female,11-24-1966,03-08-2024,Taylor Perez,Oncology,Missed,$97,016.571.2082,"3454 Rebecca Corners Apt. 802
+Khanburgh, AZ 52535"
+61,Charlotte Curry,MALE,09-23-1973,2025-04-06,Edwin Morrison,Neurology,Canceled,$639,478-872-8743x15274,"549 Gregory Walks
+Wilcoxhaven, CO 53039"
+62,Cathy Taylor,FEMALE,17/05/1978,29-04-2025,Dean Young,Oncology,attnded,$55,001-454-990-4530x17426,"145 Jeffrey Dale Suite 279
+Robertside, NJ 99768"
+63,Mary Robinson,F,05/01/1968,2025-01-20,Shelley Miller,Oncology,cancelled,N/A,851.910.8839x822,"39718 Stokes Motorway Apt. 867
+New Stevenport, AK 52398"
+64,Aaron Robinson,F,09/04/1944,2024-05-18,Michael Weaver,Neurology,MISSED,$962,1704622656,"1825 Gregory Plain Suite 823
+Port Andrewport, TX 94754"
+65,Kim Morrow,FEMALE,01-07-1968,26-10-2024,Donald Pineda,Oncology,cancelled,$819,001-106-903-3119x0790,"7383 Donald Highway
+Port Sabrina, MD 76191"
+66,Megan Flores,male,05-27-1975,06-04-2025,Matthew Walker,Oncology,miss,$780,408-926-8705x6856,"2873 Kevin Station Apt. 708
+Faulknerside, DC 51411"
+67,Dalton Lucas,male,20/07/1995,25-03-2025,Joseph Calderon,Orthopedics,attended,$286,4699013983,"0331 Rocha Square Apt. 638
+Kimberlyfurt, ND 85530"
+68,Dennis Hunt,Male,01-04-2002,2024-10-28,William Harrison,Cardiology,Canceled,$605,355-609-3204x89964,"69378 Scott View Suite 772
+Garyside, HI 71559"
+69,Tina Warren DVM,M,1944-06-12,14-03-2025,Pamela Gutierrez,Neurology,Attended,$833,+1-312-038-7509x9770,"08484 Wayne Square Suite 211
+East James, KS 46958"
+70,James Watson,MALE,1989-08-04,26-10-2024,Wanda Perez,Pediatrics,Canceled,$905,+1-101-666-8700x21765,"033 Nelson Club
+Rachelshire, AZ 24009"
+71,Emily Ali,Female,24/03/2014,2024-06-25,Michelle Sanders,Pediatrics,Canceled,$448,429-396-8562,"501 Hall Club
+Cassiefurt, MD 04384"
+72,Rachel Hayes,FEMALE,05-19-1965,2024-09-16,Jaime Lopez,Neurology,attnded,$596,001-619-431-1426,
+73,Madison Singh,FEMALE,06-07-1977,2024-09-18,Aaron Parker,Cardiology,Canceled,$522,(412)126-7888x610,"956 Kelly Loaf
+Lake Rachelbury, NC 22728"
+74,Caroline Adams,male,11/11/1970,08-11-2024,Christopher Hill,Oncology,cancelled,$829,715-437-9937x1240,"USNV Skinner
+FPO AA 43694"
+75,Jeffrey Colon,male,09/12/2022,17-12-2024,Frank Valentine,Cardiology,cancelled,N/A,752.654.7935,"1939 Erin Plaza Apt. 737
+Marieland, WY 54128"
+76,Brenda Turner,female,1968-09-20,2025-01-11,Jay Bennett,Cardiology,Attended,$254,979.688.6805x891,"529 Anna Rue
+Rasmussenmouth, NE 14387"
+77,David Dixon,Male,2004-12-09,2024-12-03,Laura Griffin,Neurology,attended,$273,(798)250-7146x1125,"87571 Bowen Mission Suite 140
+North Melindaville, GA 97558"
+78,Christopher Moore,male,12/07/2010,2024-10-13,Crystal Sullivan,Orthopedics,attended,$217,(266)093-7966,"41918 Michael Flat
+Wilsonfort, SC 41579"
+79,Lisa Matthews,F,09-07-1981,2024-09-14,Lisa Cervantes,Pediatrics,Canceled,$782,001-499-125-1341x252,"296 Lopez Roads Apt. 827
+Donaldmouth, NV 81688"
+80,Ian Smith,Female,1952-11-30,15-07-2024,Tracey Wagner,Orthopedics,attended,$629,676.772.1903x4043,"9788 Ashley Grove
+Amberton, VA 58351"
+81,Wanda Garcia,female,04-19-2023,16-02-2025,Shaun Johnson,Pediatrics,attended,$399,517-133-9596x292,
+82,Robin Trujillo,FEMALE,02/12/2011,2024-09-14,Linda Jackson,Neurology,MISSED,$898,001-449-481-2604x223,"67294 Brooks Club Apt. 684
+Shawnfort, OR 00825"
+83,Sarah Davis,Male,22/09/1996,2025-01-02,Heather Brown,Orthopedics,miss,$991,+1-636-374-5458,"0017 David Walks Apt. 770
+Harrisberg, SD 40067"
+84,Timothy Hill,MALE,03/06/2023,17-09-2024,Jacob Mckee,Orthopedics,miss,$301,(064)361-1037,"700 Montoya Wall
+Bensonfort, IN 50710"
+85,Robert Garcia,F,10/05/1984,08-04-2025,James Li,Oncology,cancelled,$734,(218)909-2753,"9731 Donald Crossing
+Bellchester, WY 18828"
+86,Matthew Wright,M,16/02/2016,20-12-2024,Dominique Pugh,Oncology,cancelled,$866,4389836403,"79180 Peck Curve
+Valenciashire, MN 72113"
+87,Pamela Best,male,04-07-1944,07-05-2024,Alexis Lewis,Orthopedics,Attended,$245,6848666188,
+88,Diamond Collins,FEMALE,03/12/2003,2025-04-23,Robert Herrera,Neurology,cancelled,$67,(914)630-3161x7990,
+89,Patrick Yang,Female,03/08/1950,2024-05-05,Meredith Martin,Pediatrics,MISSED,$593,(884)252-4105x648,"7850 Villarreal Expressway
+Ericville, OK 88859"
+90,Crystal Hicks,female,29/04/1940,30-03-2025,Dana Ruiz,Pediatrics,miss,$173,(220)863-5365x4195,"38061 Cline Trail
+Markside, AL 48855"
+91,Justin Torres,female,2019-01-31,2024-08-03,Kevin Snyder,Oncology,Missed,$333,001-383-206-0385x05064,"7024 Bradley Fort
+Haynesstad, WA 11629"
+92,Kathy Walsh,male,1988-01-02,2024-05-30,Amy Bates,Pediatrics,Missed,$359,(344)565-5743,
+93,Dale Chan,Male,28/11/2013,2024-06-12,Christopher Owens,Cardiology,miss,$179,(185)374-7411x24903,"13568 Erica Green Apt. 067
+North Steven, WY 18823"
+94,Antonio Norman,MALE,1964-08-02,2024-06-20,James Parks,Orthopedics,miss,$501,+1-199-410-1372x1510,"USS Jackson
+FPO AP 57275"
+95,Jennifer Johnson,M,26/05/1992,07-07-2024,Terry Hill,Cardiology,attended,$125,209.993.4768x701,"3838 Veronica Tunnel
+Timothyfort, OK 66350"
+96,Devin Johnson,M,2015-08-07,2024-07-25,Robert Campbell,Orthopedics,miss,N/A,859.321.3348x0396,"39559 Jade Knoll
+New Stacy, NM 71558"
+97,John Davis,FEMALE,12-28-1965,2024-12-20,Joseph Smith,Orthopedics,Canceled,$503,+1-325-250-0292x185,"USNV Bush
+FPO AP 52352"
+98,Gabrielle Morris,FEMALE,08/10/1955,2025-02-09,Rebecca Yu,Orthopedics,attended,$262,+1-528-953-9264x4220,"USCGC Rosales
+FPO AP 04745"
+99,Evan Lamb,male,07-16-2017,2024-07-25,Ashley Crawford,Oncology,Missed,$126,135-521-5704x33154,"67626 Macias Keys
+Garciafort, OK 85824"
+100,Courtney Hayes,FEMALE,17/11/1938,23-08-2024,Dean Garcia,Pediatrics,Attended,$773,262-181-5997x06296,"3368 Guerrero Hills
+North Brandon, OH 64850"
+101,Isaac Patterson,MALE,1974-06-03,2025-03-16,Lindsay Gonzalez,Pediatrics,Missed,$607,3241714677,"PSC 4186, Box 2565
+APO AE 58929"
+102,Jeremiah Baker,Male,19/11/1970,2024-12-06,Paul Contreras,Cardiology,Attended,$364,586-938-0686,"Unit 7937 Box 4160
+DPO AP 75371"
+103,Rebecca Byrd,male,01/10/2018,2024-06-27,Peter Thompson,Neurology,miss,$328,(332)061-6329,"68685 Stone Well
+Port Isabellashire, WY 55498"
+104,Chase Knight,MALE,20/08/2013,2025-02-19,Ariel Garcia,Orthopedics,Attended,$802,001-148-564-6799x70246,"65307 Prince Brooks Suite 444
+Garrisonville, IN 18115"
+105,Patrick Schroeder,male,1978-01-01,2024-08-13,Lisa Davis,Oncology,Attended,$738,367.850.8214x862,"33030 Williams Lake
+West Micheal, NY 52529"
+106,Becky Johnson,M,1985-01-09,06-11-2024,Cassandra Harrell,Orthopedics,cancelled,$235,001-855-241-4060,"33468 Michelle Trafficway
+South Rhondaburgh, AL 29830"
+107,Robert Torres,FEMALE,10-22-2021,15-08-2024,James Bailey,Cardiology,cancelled,$391,374-896-9108x589,"171 Mcneil Route Suite 444
+East Zachary, AR 79148"
+108,Francisco Taylor,F,1937-10-18,10-01-2025,Edward Meadows MD,Neurology,cancelled,$460,001-099-353-8758x4282,"48251 Michael Summit Suite 655
+Brendamouth, DE 62175"
+109,Mark Carpenter,M,20/10/2018,2024-05-28,Cory Wilson,Pediatrics,miss,$841,+1-684-602-2356x97252,"2500 Hill Trace Apt. 927
+East Christinachester, NE 63074"
+110,Andrew Gonzalez,M,02-09-1985,06-05-2024,Nicole Schmidt,Neurology,Attended,$420,0335421689,"44789 Hamilton Spur
+West Wendy, MI 98820"
+111,Travis Hull,MALE,03-26-1989,08-05-2024,Nicholas Anderson,Cardiology,Missed,$184,001-098-215-0648x9090,"16761 Wells Drives
+Lake Gina, ME 55665"
+112,Mary Nelson,MALE,10-04-2016,28-01-2025,Ronald Garcia,Cardiology,Attended,$673,001-914-117-3934x8356,"737 Young Bridge
+North Maryfort, CO 67571"
+113,Nathaniel Conway,Male,10/01/2022,2024-07-29,William Baker,Orthopedics,Canceled,N/A,1204556110,"255 Friedman Grove
+West Lisaburgh, MO 52962"
+114,Denise Cruz,F,03/06/1999,2025-03-07,Stephen Jackson,Oncology,cancelled,$348,(021)697-9729,"027 Rodriguez Loop Suite 014
+Alexanderhaven, WA 76083"
+115,Courtney Sosa,male,17/05/1980,18-11-2024,Mercedes Davis,Neurology,Missed,$198,+1-375-628-9002x87721,"54083 Powell Freeway Apt. 779
+Millerfort, MD 16060"
+116,Dr. Alicia Powell,Male,1939-03-18,03-12-2024,Samantha Conner,Neurology,MISSED,$569,+1-488-375-5037x589,"711 Aaron Knoll Suite 885
+North Pennyfort, VT 97823"
+117,Ashley Carr,M,09/11/1959,16-06-2024,Jenna Bryant,Orthopedics,cancelled,$507,516.091.7798,"80869 Glass Tunnel Apt. 922
+South Dianemouth, MS 55376"
+118,Sydney Farmer,female,27/07/1971,02-10-2024,Tracy Chavez,Neurology,MISSED,$764,(269)848-5833,"522 Page Trace Suite 879
+Craigside, NE 02174"
+119,Allison Thomas,FEMALE,1942-01-13,17-07-2024,Richard Terrell,Cardiology,MISSED,$772,+1-420-438-0571x98386,"066 Frye Spur Suite 800
+Jamesmouth, IN 83572"
+120,Maria Fischer,FEMALE,22/09/2008,2025-02-11,Patty Brandt,Neurology,Attended,$654,721-228-1606x4842,"57202 Carlson Trail Suite 798
+Charlesmouth, IN 24601"
+121,Rachel Moore,F,30/03/2008,2024-11-25,Gregory Ware,Orthopedics,cancelled,N/A,+1-555-439-8780x15739,"PSC 3056, Box 1648
+APO AP 37571"
+122,Jose Townsend,Male,2004-04-30,08-03-2025,Katelyn Phillips,Pediatrics,MISSED,$457,+1-358-112-8801x3361,"120 Love Camp Apt. 102
+Angelashire, IN 34402"
+123,Jerry Sullivan,female,05-24-1977,07-05-2024,Bryan Smith,Pediatrics,cancelled,$86,001-919-015-8144x9147,"2832 Robles Vista
+Susanberg, TX 96095"
+124,Tina Smith,Female,11-16-2009,24-06-2024,Aaron Carlson,Oncology,attended,$150,+1-814-353-6822,"12908 Newman Cliffs Suite 141
+Lake Beverly, MI 17306"
+125,Cynthia Mitchell,F,01/11/1943,2025-04-15,John Murphy,Pediatrics,Attended,N/A,+1-492-995-5620x53364,"577 Howard Inlet
+Arnoldburgh, PA 11245"
+126,Shannon Taylor,male,21/08/2007,16-07-2024,Stephen Jones,Neurology,attnded,$471,080-996-9308,"256 Patricia Radial Suite 278
+South Michaeltown, IA 80983"
+127,Nicole Taylor,Male,1956-01-01,2024-07-09,Krystal Brennan,Cardiology,Canceled,$296,(750)373-1453,"567 Keith Canyon
+Dakotahaven, KY 97744"
+128,Joshua Thompson,Male,2023-04-19,25-09-2024,Matthew Houston,Pediatrics,cancelled,$59,463.865.5779x08272,"22259 Donna Mall Suite 177
+Clarkburgh, MT 03443"
+129,Carl Vargas,MALE,01/09/1952,2024-12-31,Stephanie Thomas,Cardiology,cancelled,$651,(428)699-0413,"2369 Laura View Apt. 984
+Lake Gina, PA 77911"
+130,James Anderson,FEMALE,08-02-1936,18-07-2024,Susan Cohen,Neurology,miss,$443,(912)799-0881,"806 Wood Cape
+Perezfort, WI 50470"
+131,Robert Velez,F,2012-09-28,07-06-2024,David Cannon,Orthopedics,MISSED,$766,498-643-0098,"3565 Eric Run
+Joseside, OK 48426"
+132,Wendy Sanders,FEMALE,20/01/1962,2024-10-08,Kristin White,Orthopedics,Attended,$813,+1-874-495-6213,"38658 Eugene Roads
+Port Christopherberg, PA 57566"
+133,Dennis Wood,male,2017-03-21,15-05-2024,Tara Morales,Oncology,Missed,$744,+1-849-027-7038x4309,"205 Diana Estate
+West Kimberlystad, MO 53644"
+134,Kelly Mclaughlin,Male,09-02-1943,2025-04-22,Duane Gallegos,Cardiology,miss,$84,001-554-393-7690,"181 Morgan Crescent Suite 894
+Churchshire, WI 32387"
+135,Tonya Ellis,Male,1997-01-13,14-04-2025,Alyssa Wilson,Pediatrics,Canceled,$185,633-565-8804,"5182 Edwards Forge
+Ianborough, WA 26671"
+136,David Baker,female,07-11-1965,18-07-2024,Sara Kelly,Oncology,miss,$543,001-111-790-8075x95794,"3920 Mendoza Plains Apt. 856
+South Tiffany, NC 60803"
+137,Adam Craig,male,12-21-1985,12-12-2024,Isaiah Hensley,Cardiology,cancelled,$194,(843)479-5527,"556 Hayes Ports Apt. 931
+Lindaside, MS 26199"
+138,Tyler Hernandez,Female,08-29-1935,08-07-2024,Chad Barry,Orthopedics,MISSED,N/A,+1-885-744-8906x1203,"175 Ward Points Suite 506
+West Michelleborough, OK 85680"
+139,Carrie Deleon,male,08-30-1982,2024-09-04,Katherine Doyle,Neurology,MISSED,$738,694-722-5699,"25355 Page Rapids
+Nelsonmouth, MN 98529"
+140,Tracie Gutierrez,FEMALE,05-12-1959,28-03-2025,Nicholas Stanley,Cardiology,Missed,$684,001-132-611-1780x0681,"64334 Sims Curve
+North Austin, MD 62911"
+141,Seth Donovan,female,12-27-2008,2024-10-20,Travis Ryan,Cardiology,cancelled,$359,001-979-688-4578,"4564 Kevin Alley
+West Justin, AL 90648"
+142,Theresa Woods,F,1935-07-29,2025-02-22,Edward Hall,Cardiology,miss,$168,8536866326,
+143,Connie Miller,Male,09/06/2019,02-08-2024,Rebecca Austin,Pediatrics,Canceled,$794,001-448-463-1224x179,"50208 Jacob Cove Suite 427
+East Christophertown, IL 45316"
+144,Richard Jimenez,FEMALE,11-17-1984,2024-10-28,Amanda Miller,Neurology,Canceled,$336,001-204-618-7234x60136,
+145,Jessica Rojas,female,1938-11-22,17-07-2024,Ray Boyd,Neurology,Missed,$151,764.520.8814,"50313 Nguyen Expressway Suite 916
+North Tanya, WY 91039"
+146,Kyle Watson,female,07-06-1946,05-08-2024,Brandon Montgomery,Cardiology,Canceled,$175,001-005-281-2735x85730,"240 Mann Points Suite 873
+New Michael, NH 36588"
+147,Linda Valencia,MALE,1956-02-26,2024-05-27,Joanna Weiss,Orthopedics,Attended,N/A,+1-570-862-0959,"863 Cannon Drives
+Marcusmouth, CT 69077"
+148,Amanda Pace,Male,08-24-1958,2025-04-05,Brian Lee,Cardiology,Missed,$882,9678994053,"37170 Grant Mall
+Lauraton, RI 35341"
+149,Morgan Davenport,female,1944-12-09,2024-07-23,Anne Hardy,Pediatrics,attnded,$603,+1-633-839-2886,"761 Laura Plaza Suite 852
+Mahoneymouth, MD 49223"
+150,Mark Mckenzie,Male,1978-05-09,2024-12-23,Joshua Brooks,Oncology,Attended,$857,+1-457-760-0490,"43350 Ellison Pass Apt. 107
+Ericview, OR 33250"
+151,Robert Davis,female,1988-09-29,2024-12-08,Morgan Cummings,Pediatrics,Attended,$481,279.194.0961x0556,"90604 Luis Port
+West Wayne, FL 07122"
+152,Yolanda Maddox,F,01/05/2015,10-12-2024,Courtney Roberts,Pediatrics,attended,$276,(225)179-0864x1686,"78376 Ann Street
+East Charles, NE 42891"
+153,Laura Rodriguez,M,08-15-1990,12-10-2024,Connor Cooper,Neurology,Attended,N/A,+1-042-597-9270x3352,"03924 Matthew Unions
+West Shannontown, IL 97495"
+154,Christina Mills,FEMALE,14/07/1969,2024-11-30,Dr. Charles Hale,Neurology,cancelled,N/A,6980420439,
+155,John Landry,Male,1943-05-25,2024-09-28,Mary Durham,Pediatrics,MISSED,$661,(104)636-8157x981,"003 Cook Lock Apt. 055
+Colleenbury, KY 08628"
+156,Sherry Zamora,MALE,05-05-1938,02-12-2024,Courtney Peterson,Cardiology,attended,$716,(216)893-6392x6495,"29832 Barker Pine
+South Wendy, FL 86514"
+157,Sylvia Stewart,Female,09/03/2010,23-11-2024,Bailey Stewart,Oncology,Canceled,$514,(056)647-4231,"949 Caitlyn Fort
+West Christopherfort, NY 79761"
+158,Matthew White,F,24/01/1987,07-11-2024,Christopher Perez,Pediatrics,miss,$206,(046)333-1279x75736,"656 Abigail Mission
+Wilcoxton, IA 68488"
+159,Victoria Williams,MALE,1987-01-21,2024-11-17,Tonya Lee,Cardiology,attended,$812,644.726.4908x277,"98266 Hayes Fall
+Garzaborough, NH 12321"
+160,Michael Meadows,Male,08-26-1956,2025-02-03,Anna Mccarthy,Orthopedics,MISSED,$470,+1-518-689-2686x0259,"22064 Cross Mission
+Courtneyville, DC 27089"
+161,Preston Smith,FEMALE,01-22-2002,2025-03-29,Dr. Lawrence Snyder II,Pediatrics,miss,$641,+1-776-719-9038x49830,"502 Elizabeth Villages
+Markland, CT 55152"
+162,Candace Mitchell DDS,Male,04-23-2015,09-12-2024,Cassandra Gibson,Oncology,attended,$619,001-501-455-6168,"14586 Heather Ridge Apt. 198
+South Jenniferport, PA 41983"
+163,Kenneth Hanson,male,12-27-1951,2024-12-25,Kelly Welch,Neurology,Attended,$723,293.430.1071x3966,"303 King Cliff Suite 488
+Katieville, MA 45243"
+164,Keith Choi,male,1958-03-27,2024-07-15,George Chambers,Pediatrics,miss,$409,027.278.5760x8495,
+165,Alicia Ray,Male,06-24-1979,07-03-2025,Rebecca Jones,Cardiology,attnded,$81,(405)682-9962,
+166,Sharon Walton,Female,18/02/1977,31-01-2025,Jason Crawford,Neurology,MISSED,$369,574.384.2150,"8078 James Orchard
+Kimberlyberg, CT 68153"
+167,Brandi Hardy,F,1996-11-07,2024-09-28,Kelly Smith,Oncology,Attended,$328,9157018409,"3344 Mejia Skyway
+West Edwardview, AL 82151"
+168,Ashley Daniels,FEMALE,06/02/2009,01-09-2024,Tony Brock,Neurology,miss,$574,001-321-495-8702,"60166 Janet Ramp
+Jensenport, ID 93942"
+169,Rhonda Miller,FEMALE,1997-09-17,07-12-2024,Robert Gillespie,Orthopedics,cancelled,$365,174.773.3294x562,
+170,Mary Mccormick,FEMALE,07-13-1978,2024-10-24,Mr. Brian Mendoza,Cardiology,Missed,$266,(459)928-1615,"8769 Allen Gardens
+South Patrick, IL 91472"
+171,Rachel Graham,male,26/11/1980,28-11-2024,Carrie Caldwell,Cardiology,Attended,$490,001-971-997-5817x2461,"7013 Paige Throughway Apt. 227
+Petershire, ID 27457"
+172,Emily Hudson,FEMALE,10-13-1975,2025-04-22,Jessica Haas,Orthopedics,MISSED,N/A,(190)986-2405x800,"40369 Garrett Station Suite 666
+Lake Glenn, ID 73301"
+173,Tim Larsen,M,30/04/1955,2024-08-21,Meagan Taylor MD,Neurology,attended,$639,2762126796,"687 Kelly Ferry Suite 909
+Bradfordbury, NY 35792"
+174,Joshua Richardson,FEMALE,06-27-1939,07-12-2024,Mr. Kevin Nixon,Pediatrics,attended,$382,284-781-8913,"894 Rebecca Place
+South Shawnfort, VA 43953"
+175,Tyler Yates,MALE,09-10-1973,05-07-2024,Thomas Curry,Cardiology,Canceled,$299,001-940-792-9049x0471,"4294 Hodge Bridge
+New Gregshire, FL 86897"
+176,Robert Green,FEMALE,06-24-1966,2024-11-05,Joseph Johnson,Neurology,miss,$276,292-766-3723,"41027 Alvarez Mountains Apt. 667
+Dustinchester, LA 59328"
+177,Ethan Moreno,Male,1939-11-30,2024-06-07,Marcia Blanchard,Orthopedics,Missed,$407,(945)441-4967x39385,"8001 Robert Pine
+Lake Seanbury, LA 33517"
+178,Alexander Davis,Male,2015-03-12,2025-01-11,Claire Greene,Oncology,miss,$666,119-269-2124,"746 Scott Tunnel
+West Kimberlyfurt, MA 08373"
+179,Robert Thompson,F,1943-10-11,07-11-2024,Christina Long,Neurology,cancelled,$953,+1-712-863-9174x1011,"0720 Elizabeth Grove Apt. 569
+New Jasminefort, NE 53442"
+180,Priscilla Floyd,female,11-04-2007,27-07-2024,Troy Meyers,Oncology,cancelled,N/A,198.554.6015x8517,"328 Tammy Shore Apt. 461
+Tommouth, ID 18843"
+181,Alexander Davies,male,16/10/1966,2024-11-06,Ricky Schneider,Pediatrics,attended,$512,870.050.5061x3878,
+182,Kerry Buckley,female,09/05/1939,2025-02-10,Matthew Ruiz,Cardiology,Canceled,$617,+1-032-020-4179x291,"79931 Ronald Valleys
+Nguyenshire, DC 42652"
+183,Rebecca Duran,M,19/01/2015,2024-07-07,Bryan Thomas,Pediatrics,cancelled,$113,(258)273-9021x96207,"19467 Jamie Route
+Alexandrachester, HI 80525"
+184,Linda Love,female,08-19-2017,2024-06-04,Rachel Bailey,Orthopedics,attnded,N/A,8331819588,"0312 Jimenez Estate
+North Deannaport, NE 33450"
+185,Robert Chang,MALE,03-24-1940,2024-06-10,Tammy Thompson,Pediatrics,MISSED,$446,7811379956,"15313 Kane Lane Apt. 179
+Brownchester, IL 80380"
+186,James Taylor,female,10-03-1960,2025-01-01,Derrick Rogers,Pediatrics,attended,$621,9042177625,"292 Christopher Walks Suite 397
+Ramirezchester, IA 32984"
+187,Kevin Snow,male,15/11/2014,2024-06-27,Stephanie Butler,Pediatrics,attended,$194,0780686717,"063 Michael Garden
+North Timothyport, VT 60700"
+188,Nicole Johnson,male,03-27-1996,28-10-2024,Shelly Sullivan,Oncology,attended,$435,(701)658-0464x989,"508 Barron Creek
+Diazton, MN 23473"
+189,Michele Castro,female,1962-03-12,2024-06-23,Mrs. Ashley Mendoza,Neurology,MISSED,N/A,001-933-554-8640x15577,"8847 Marsh Square
+East Patriciamouth, CO 51708"
+190,Donna Frye,Female,20/03/1949,03-07-2024,Michael Crawford,Oncology,Missed,$208,804.682.7567,
+191,Alison Lopez,F,05-01-1937,2025-04-04,Sandy Stone,Pediatrics,attnded,$207,695-579-8877x49242,"5402 Mitchell Expressway
+Lake Amanda, HI 93314"
+192,Mary Hernandez,Male,09-17-1966,15-06-2024,Eugene Martinez,Cardiology,Canceled,$786,523-805-5257x828,"7275 Adam Streets
+Deborahport, LA 99350"
+193,Ms. Bridget Cunningham,MALE,07-03-1994,09-09-2024,Monique Mccullough,Neurology,Missed,$366,(814)069-3751,"834 Andrew Plain
+Rhodesland, MO 25987"
+194,Larry Hunt Jr.,MALE,2025-01-29,18-09-2024,Mike Patterson,Orthopedics,cancelled,$338,(504)554-7813x7674,"629 Douglas Hollow Suite 851
+Davischester, KY 54832"
+195,Joel Bradley,FEMALE,1952-12-19,2024-07-17,James Spencer,Orthopedics,attnded,$103,4947873002,"46273 David Harbor Suite 195
+Cunninghamview, TX 62896"
+196,Sabrina Brooks,female,08-16-2012,2024-05-07,Carla Brown,Orthopedics,attended,$831,725-204-5650x44818,"92855 Nelson Square
+Codyshire, FL 02191"
+197,Douglas Maxwell,MALE,05-28-1990,2024-09-10,Carla Robinson,Neurology,attended,$277,338.988.8167x11207,"79852 Johnson Via Apt. 322
+West David, CO 56181"
+198,Rachel Jones,female,2000-03-28,19-02-2025,Craig Johnson,Cardiology,Canceled,$291,+1-890-714-0140x11939,"PSC 2501, Box 2495
+APO AA 21545"
+199,Phyllis Austin,F,19/01/2003,2024-12-08,Robert Hines,Cardiology,MISSED,$909,334.280.1387x59271,"6383 Rodriguez Island Apt. 718
+South Kathryn, LA 73525"
+200,Angela Snyder,female,1986-09-13,2024-08-19,Noah Mcdaniel,Cardiology,miss,$533,386.463.1752x071,"26691 Calvin Flat
+Jamesfurt, IN 56167"
